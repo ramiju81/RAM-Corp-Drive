@@ -1,7 +1,7 @@
 # 📁 RAM Corp Drive
 
 ![Estado](https://img.shields.io/badge/Estado-Plataforma_digital-228B22)
-![Plataformas](https://img.shields.io/badge/Plataforma-Web-2563EB)
+![Plataformas](https://img.shields.io/badge/Plataforma-Web_&_Mobile-2563EB)
 ![Licencia](https://img.shields.io/badge/Licencia-Privada-red)
 ![Actualización](https://img.shields.io/badge/Actualizado-10_Sept_2026-lightgrey)
 
