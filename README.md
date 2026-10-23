@@ -7,7 +7,7 @@
 
 ## 📋 Descripción del proyecto
 
-**RAM Corp Drive** es una plataforma web orientada a la gestión, organización y consulta de archivos digitales desde una experiencia centralizada.
+Es una plataforma web orientada a la gestión, organización y consulta de archivos digitales desde una experiencia centralizada.
 
 Integra herramientas para explorar información, localizar documentos y consultar contenidos mediante una interfaz enfocada en la productividad y la facilidad de uso.
 
