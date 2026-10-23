@@ -3,7 +3,7 @@
 ![Estado](https://img.shields.io/badge/Estado-Plataforma_digital-228B22)
 ![Plataformas](https://img.shields.io/badge/Plataforma-Web-2563EB)
 ![Licencia](https://img.shields.io/badge/Licencia-Privada-red)
-![Actualización](https://img.shields.io/badge/Actualizado-23_Oct_2026-lightgrey)
+![Actualización](https://img.shields.io/badge/Actualizado-08_Sept_2026-lightgrey)
 
 ## 📋 Descripción del proyecto
 
@@ -122,4 +122,4 @@ Este proyecto está orientado a:
 
 ## 📅 Control de versiones
 
-![Documentación](https://img.shields.io/badge/Portafolio-Presentaci%C3%B3n_p%C3%BAblica-blue) ![Última actualización](https://img.shields.io/badge/Actualizado-23_Oct_2026-green)
+![Documentación](https://img.shields.io/badge/Portafolio-Presentaci%C3%B3n_p%C3%BAblica-blue) ![Última actualización](https://img.shields.io/badge/Actualizado-08_Sept_2026-green)
