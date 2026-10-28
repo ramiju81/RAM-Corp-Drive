@@ -1,7 +1,7 @@
 # 📁 RAM Corp Drive
 
-![Estado](https://img.shields.io/badge/Estado-Plataforma_digital-228B22)
-![Plataformas](https://img.shields.io/badge/Plataforma-Web_&_Mobile-2563EB)
+![Estado](https://img.shields.io/badge/Estado-Versi%C3%B3n_0.1.0--dev_en_DESARROLLO-228B22)
+![Plataformas](https://img.shields.io/badge/Plataformas-Web_&_Mobile-2563EB)
 ![Licencia](https://img.shields.io/badge/Licencia-Privada-red)
 ![Actualización](https://img.shields.io/badge/Actualizado-10_Sept_2026-lightgrey)
 
@@ -41,15 +41,19 @@ Integra herramientas para explorar información, localizar documentos y consulta
 **Backend y servicios**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![API HTTP](https://img.shields.io/badge/API-HTTP-009688)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-4051B5)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)
 
-**Herramientas**
+**Persistencia e infraestructura**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
 
-**Plataforma**
+**Plataformas**
 
-![Aplicación web](https://img.shields.io/badge/Aplicaci%C3%B3n-Web-0066CC)
+![Aplicación web](https://img.shields.io/badge/Aplicaci%C3%B3n-Web-0066CC) ![Experiencia móvil](https://img.shields.io/badge/Experiencia-M%C3%B3vil-7C3AED)
 
 ## 🖥️ Estructura del proyecto
 
@@ -122,4 +126,4 @@ Este proyecto está orientado a:
 
 ## 📅 Control de versiones
 
-![Versión](https://img.shields.io/badge/Versi%C3%B3n-1.0.0-blue) ![Documentación](https://img.shields.io/badge/Portafolio-Presentaci%C3%B3n_p%C3%BAblica-blue) ![Última actualización](https://img.shields.io/badge/Actualizado-10_Sept_2026-green)
+![Versión](https://img.shields.io/badge/Versi%C3%B3n-0.1.0--dev-blue) ![Documentación](https://img.shields.io/badge/Portafolio-Presentaci%C3%B3n_p%C3%BAblica-blue) ![Última actualización](https://img.shields.io/badge/Actualizado-10_Sept_2026-green)
