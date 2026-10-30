@@ -1,9 +1,6 @@
 # 📁 RAM Corp Drive
 
-![Estado](https://img.shields.io/badge/Estado-En_pruebas_piloto-2F6F68)
-![Plataformas](https://img.shields.io/badge/Plataformas-Web_&_Mobile-315A6B)
-![Licencia](https://img.shields.io/badge/Licencia-Privada-475569)
-![Actualización](https://img.shields.io/badge/Actualizado-10_Sept_2026-94A3B8)
+![Estado, plataformas, licencia y actualización](.github/assets/badges-header.svg)
 
 ## 📋 Descripción del proyecto
 
@@ -126,4 +123,4 @@ Este proyecto está orientado a:
 
 ## 📅 Control de versiones
 
-![Versión](https://img.shields.io/badge/Versi%C3%B3n-0.1.0--dev-315A6B) ![Documentación](https://img.shields.io/badge/Portafolio-Presentaci%C3%B3n_p%C3%BAblica-blue) ![Última actualización](https://img.shields.io/badge/Actualizado-10_Sept_2026-94A3B8)
+![Versión, documentación y última actualización](.github/assets/badges-version.svg)
